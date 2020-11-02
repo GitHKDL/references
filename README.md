@@ -1,8 +1,6 @@
 # references for data science 
 
 
-
-
 ### visualization 
 
 
@@ -23,7 +21,7 @@ https://sdsclub.com/machine-learning-data-science-foundations
 * Courses amazon 
 https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
 
-
+* Courses kaggle 
 
 * Join a kaggle competition as a noob
 https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way
@@ -37,9 +35,28 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 * Maths for deep learning 
 https://explained.ai/matrix-calculus/index.html
 
+### reinforcement learning 
+
+* Sutton's book http://www.incompleteideas.net/book/RLbook2020.pdf
+
+* Lectures berkeley 
+
 * Deep reinforcement learning - Berkeley
 https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
+
+
+### time series 
+
+* 
+
+### NLP 
+
+* https://lena-voita.github.io/nlp_course.html
+
+* NLTK + book 
+
+* course spacy
 
 
 ### languages : R, python, Julia, Scala, Matlab 
@@ -61,11 +78,7 @@ https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
 
 ### software engineering 
 
-* Architecture 
-
-### NLP 
-
-* https://lena-voita.github.io/nlp_course.html
+* Architecture  
 
 
 ### misc 
