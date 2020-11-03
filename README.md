@@ -1,7 +1,18 @@
 # references for data science 
 
 
+### stats 
+
+* Larry Wasserman : all of statistics 
+
+* 
+
 ### visualization 
+
+*  John Tukey http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/102_05_01_Tukey-Exploratory-Data-Analysis-1977.pdf
+The 1977 classic
+
+* Good charts - scott Beratino https://www.oreilly.com/library/view/good-charts/9781633690714/
 
 
 ### machine learning 
@@ -9,28 +20,24 @@
 * Introduction to Statistical learning 
 http://faculty.marshall.usc.edu/gareth-james/ISL/
 
-
 * Mathematics for machine learning 
 https://mml-book.github.io/
-
 
 * Foundations of machine learning and data science 
 https://sdsclub.com/machine-learning-data-science-foundations
 
-
 * Courses amazon 
 https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
 
-* Courses kaggle 
+* Courses kaggle https://www.kaggle.com/learn/overview
 
 * Join a kaggle competition as a noob
 https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way
 
 
-
 ### deep learning 
 
-* Course Berkeley 
+* Course Berkeley: 
 
 * Maths for deep learning 
 https://explained.ai/matrix-calculus/index.html
@@ -46,31 +53,32 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 
 
-### time series 
+### time series & forecasting 
 
 * 
 
+* Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos https://otexts.com/fpp2/
+
+
 ### NLP 
+
+* course spacy: https://course.spacy.io/en/
 
 * https://lena-voita.github.io/nlp_course.html
 
-* NLTK + book 
+* NLTK + book (a bit old) :http://www.nltk.org/book/
 
-* course spacy
 
 
 ### languages : R, python, Julia, Scala, Matlab 
 
 * https://jakevdp.github.io/PythonDataScienceHandbook/
 
-* SQL for newbies 
-http://mystery.knightlab.com/
+* SQL for newbies http://mystery.knightlab.com/
 
 ### research 
 
-* Classic papers
-
-https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
+* Classic papers https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
 
 
 
