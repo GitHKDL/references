@@ -7,6 +7,12 @@
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
 
 
+* https://decision.substack.com/p/analytics-the-complete-minicourse
+
+* terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
+
+
+
 ### statistics
 
 * Larry Wasserman's "all of statistics" : http://www.stat.cmu.edu/~larry/
