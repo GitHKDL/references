@@ -1,16 +1,26 @@
 # references for data science 
 
+### for executives 
 
-### stats 
+* HBR guide, "Data analytics basics for managers"
 
-* Larry Wasserman : all of statistics 
 
-* 
+
+
+
+
+### statistics
+
+* Larry Wasserman's "all of statistics" : http://www.stat.cmu.edu/~larry/
+* all of statistics: http://static.stevereads.com/papers_to_read/all_of_statistics.pdf
+* all of non-parametric statistics: https://web.stanford.edu/class/ee378a/books/book2.pdf
+
+* MIT course by Joe Blitzstein: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
 
 ### visualization 
 
-*  John Tukey http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/102_05_01_Tukey-Exploratory-Data-Analysis-1977.pdf
-The 1977 classic
+*  John Tukey, The 1977 classic: Exploratory Data Analysis http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/102_05_01_Tukey-Exploratory-Data-Analysis-1977.pdf
 
 * Good charts - scott Beratino https://www.oreilly.com/library/view/good-charts/9781633690714/
 
@@ -72,6 +82,8 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 ### languages : R, python, Julia, Scala, Matlab 
 
+* JP Morgan Python for traders https://github.com/jpmorganchase/python-training
+
 * https://jakevdp.github.io/PythonDataScienceHandbook/
 
 * SQL for newbies http://mystery.knightlab.com/
@@ -79,8 +91,6 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 ### research 
 
 * Classic papers https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
-
-
 
 
 
