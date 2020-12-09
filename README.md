@@ -7,10 +7,10 @@
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
 
 
-
 ### statistics
 
 * Larry Wasserman's "all of statistics" : http://www.stat.cmu.edu/~larry/
+![alt text](https://github.com/GitHKDL/references/blob/main/61L6v7WjPzL.jpgraw=true)
 * all of statistics: http://static.stevereads.com/papers_to_read/all_of_statistics.pdf
 * all of non-parametric statistics: https://web.stanford.edu/class/ee378a/books/book2.pdf
 
