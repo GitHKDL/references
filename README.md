@@ -65,8 +65,6 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 ### time series & forecasting 
 
-* 
-
 * Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos https://otexts.com/fpp2/
 
 
@@ -97,6 +95,9 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 ### software engineering 
 
 * Architecture  
+
+* DS in production https://mlinproduction.com/ 
+
 
 
 ### misc 
