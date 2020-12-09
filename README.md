@@ -17,6 +17,8 @@
 
 * MIT course by Joe Blitzstein: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
+![alt text](https://github.com/GitHKDL/references/blob/main/hqdefault.jpg?raw=true)
+
 
 ### visualization 
 
