@@ -4,8 +4,7 @@
 
 * HBR guide, "Data analytics basics for managers"
 
-
-
+![alt text](https://github.com/GitHKDL/references/Guidedataanallytics.jpg?raw=true)
 
 
 
