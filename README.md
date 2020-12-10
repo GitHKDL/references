@@ -121,10 +121,13 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 * Classic papers in ML, AI, ... https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
 
-### misc 
+### misc, other lists 
 
 * A general list with many classics 
 https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html
+
+* https://www.mltut.com/best-resources-to-learn-probability-and-statistics-for-machine-learning
+
 
 ### MOOCs
 
