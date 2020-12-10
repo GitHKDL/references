@@ -30,9 +30,9 @@
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/images.jpeg?raw=true)
 
-
 * Good charts - scott Beratino https://www.oreilly.com/library/view/good-charts/9781633690714/
 
+![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.39.57%20PM.png?raw=true)
 
 ### machine learning 
 
