@@ -40,6 +40,8 @@ http://faculty.marshall.usc.edu/gareth-james/ISL/
 * Courses amazon 
 https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
 
+![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%204.30.38%20PM.png?raw=true)
+
 * Courses kaggle https://www.kaggle.com/learn/overview
 
 * Mathematics for machine learning https://mml-book.github.io/
@@ -58,6 +60,8 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.01.05%20PM.png?raw=true)
 
 * Fast.ai https://www.fast.ai/
+
+![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.07.58%20PM.png?raw=true)
 
 * Maths for deep learning 
 https://explained.ai/matrix-calculus/index.html
