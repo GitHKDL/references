@@ -55,6 +55,8 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 
 * _Dive into Deep learning_ https://d2l.ai/
 
+![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.01.05%20PM.png?raw=true)
+
 * Fast.ai https://www.fast.ai/
 
 * Maths for deep learning 
