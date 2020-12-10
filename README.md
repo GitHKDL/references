@@ -29,6 +29,9 @@
 
 *  John Tukey, The 1977 classic _Exploratory Data Analysis_ http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/102_05_01_Tukey-Exploratory-Data-Analysis-1977.pdf
 
+![alt text](https://github.com/GitHKDL/references/blob/main/images.jpeg?raw=true)
+
+
 * Good charts - scott Beratino https://www.oreilly.com/library/view/good-charts/9781633690714/
 
 
