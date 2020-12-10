@@ -82,7 +82,6 @@ https://explained.ai/matrix-calculus/index.html
 https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 
-
 ### time series & forecasting 
 
 * Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos https://otexts.com/fpp2/
@@ -111,7 +110,9 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 ### software engineering 
 
-* Architecture  
+* AWS ML certification https://aws.amazon.com/certification/certified-machine-learning-specialty/
+
+* Google Cloud Machine learning Engineer certification: https://cloud.google.com/certification/machine-learning-engineer
 
 * DS in production https://mlinproduction.com/ 
 
