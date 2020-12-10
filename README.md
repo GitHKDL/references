@@ -2,7 +2,7 @@
 
 ### for executives 
 
-* HBR guide, "Data analytics basics for managers"
+* HBR guide, _Data analytics basics for managers_
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
 
@@ -12,14 +12,13 @@
 * terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
 
 
-
 ### statistics
 
-* Larry Wasserman's "all of statistics" : http://www.stat.cmu.edu/~larry/
+* Larry Wasserman's _all of statistics_ : http://www.stat.cmu.edu/~larry/
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/61L6v7WjPzL.jpg?raw=true)
-* all of statistics: http://static.stevereads.com/papers_to_read/all_of_statistics.pdf
-* all of non-parametric statistics: https://web.stanford.edu/class/ee378a/books/book2.pdf
+* _all of statistics_: http://static.stevereads.com/papers_to_read/all_of_statistics.pdf
+* _all of non-parametric statistics_: https://web.stanford.edu/class/ee378a/books/book2.pdf
 
 * MIT course by Joe Blitzstein: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
@@ -28,26 +27,25 @@
 
 ### visualization 
 
-*  John Tukey, The 1977 classic: Exploratory Data Analysis http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/102_05_01_Tukey-Exploratory-Data-Analysis-1977.pdf
+*  John Tukey, The 1977 classic _Exploratory Data Analysis_ http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/102_05_01_Tukey-Exploratory-Data-Analysis-1977.pdf
 
 * Good charts - scott Beratino https://www.oreilly.com/library/view/good-charts/9781633690714/
 
 
 ### machine learning 
 
-* Introduction to Statistical learning 
+* _Introduction to Statistical learning_ and  _Elements of Statistical learning_ 
 http://faculty.marshall.usc.edu/gareth-james/ISL/
-
-* Mathematics for machine learning 
-https://mml-book.github.io/
-
-* Foundations of machine learning and data science 
-https://sdsclub.com/machine-learning-data-science-foundations
 
 * Courses amazon 
 https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
 
 * Courses kaggle https://www.kaggle.com/learn/overview
+
+* Mathematics for machine learning https://mml-book.github.io/
+
+* Foundations of machine learning and data science 
+https://sdsclub.com/machine-learning-data-science-foundations
 
 * Join a kaggle competition as a noob
 https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way
@@ -55,7 +53,9 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 
 ### deep learning 
 
-* Course Berkeley: 
+* _Dive into Deep learning_ https://d2l.ai/
+
+* Fast.ai https://www.fast.ai/
 
 * Maths for deep learning 
 https://explained.ai/matrix-calculus/index.html
@@ -86,18 +86,15 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 
 
-### languages : R, python, Julia, Scala, Matlab 
+### languages : R, python, SQL, Julia, Scala, Matlab 
 
-* JP Morgan Python for traders https://github.com/jpmorganchase/python-training
+* _JP Morgan Python for traders_ https://github.com/jpmorganchase/python-training
 
-* https://jakevdp.github.io/PythonDataScienceHandbook/
+* _Python Data Science Handbook_ https://jakevdp.github.io/PythonDataScienceHandbook/
+
+* Norman Matloff's _Art of R programming_: http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf
 
 * SQL for newbies http://mystery.knightlab.com/
-
-### research 
-
-* Classic papers https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
-
 
 
 ### software engineering 
@@ -105,6 +102,11 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 * Architecture  
 
 * DS in production https://mlinproduction.com/ 
+
+
+### research 
+
+* Classic papers in ML, AI, ... https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
 
 
 
