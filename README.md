@@ -11,7 +11,6 @@
 
 * terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
 
-
 ### statistics
 
 * Larry Wasserman's _all of statistics_ : http://www.stat.cmu.edu/~larry/
@@ -40,6 +39,8 @@
 * _Introduction to Statistical learning_ and  _Elements of Statistical learning_ 
 http://faculty.marshall.usc.edu/gareth-james/ISL/
 
+![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.22.42%20PM.png?raw=true)
+
 * Courses amazon 
 https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
 
@@ -57,6 +58,8 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 
 
 ### deep learning 
+
+* MIT 6.S191 _intro to Deep learning_ http://introtodeeplearning.com/
 
 * _Dive into Deep learning_ https://d2l.ai/
 
@@ -117,10 +120,13 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 * Classic papers in ML, AI, ... https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
 
-
-
 ### misc 
 
 * A general list with many classics 
 https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html
+
+### MOOCs
+
+* https://lnkd.in/g4CCsak
+
 
