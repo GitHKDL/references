@@ -39,7 +39,7 @@
 * _Introduction to Statistical learning_ and  _Elements of Statistical learning_ 
 http://faculty.marshall.usc.edu/gareth-james/ISL/
 
-![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.22.42%20PM.png?raw=true)
+![alt text](https://github.com/GitHKDL/references/blob/main/ISL.jpg?raw=true)
 
 * Courses amazon 
 https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
@@ -60,6 +60,8 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 ### deep learning 
 
 * MIT 6.S191 _intro to Deep learning_ http://introtodeeplearning.com/
+
+![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.22.42%20PM.png?raw=true)
 
 * _Dive into Deep learning_ https://d2l.ai/
 
