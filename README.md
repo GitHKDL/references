@@ -105,6 +105,8 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 * _Python Data Science Handbook_ https://jakevdp.github.io/PythonDataScienceHandbook/
 
+* _PEP8 guidelines_ https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.
+
 * Norman Matloff's _Art of R programming_: http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf
 
 * SQL for newbies http://mystery.knightlab.com/
