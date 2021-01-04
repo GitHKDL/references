@@ -52,6 +52,13 @@ http://faculty.marshall.usc.edu/gareth-james/ISL/
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/ISL.jpg?raw=true)
 
+* _machine learning: a probabilistic perspective_ 
+* _machine learning: an introduction_
+https://probml.github.io/pml-book/
+
+![alt text](https://github.com/GitHKDL/references/blob/main/MLintro.jpg?raw=true)
+
+
 * Courses amazon 
 https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
 
