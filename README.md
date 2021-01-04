@@ -56,7 +56,7 @@ http://faculty.marshall.usc.edu/gareth-james/ISL/
 * _machine learning: an introduction_
 https://probml.github.io/pml-book/
 
-![alt text](https://github.com/GitHKDL/references/blob/main/MLintro.jpg?raw=true)
+![alt text](https://github.com/GitHKDL/references/blob/main/MLintro_murphy.jpg?raw=true)
 
 
 * Courses amazon 
