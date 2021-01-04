@@ -1,5 +1,9 @@
 # references for data science 
 
+### Courses, masters, PhDs 
+
+* list of best masters https://www.kdnuggets.com/2019/04/best-masters-data-science-analytics-online.html
+
 ### for executives 
 
 * HBR guide, _Data analytics basics for managers_
@@ -70,6 +74,10 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.22.42%20PM.png?raw=true)
 
+* _Deepmind learning resources_ https://deepmind.com/learning-resources/deep-learning-lecture-series-2020
+
+![alt text](https://github.com/GitHKDL/references/blob/main/dl_lectures.png?raw=true)
+
 * _Dive into Deep learning_ https://d2l.ai/
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.01.05%20PM.png?raw=true)
@@ -78,8 +86,9 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.07.58%20PM.png?raw=true)
 
-* Maths for deep learning 
-https://explained.ai/matrix-calculus/index.html
+* Maths for deep learning https://explained.ai/matrix-calculus/index.html
+
+
 
 ### reinforcement learning 
 
@@ -128,9 +137,10 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 * DS in production https://mlinproduction.com/ 
 
 
-### research 
+### Research 
 
 * Classic papers in ML, AI, ... https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
+
 
 ### misc, other lists 
 
