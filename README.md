@@ -14,13 +14,26 @@
 
 ### DS for executives 
 
-* HBR guide, _Data analytics basics for managers_
-
+* [HBR guide, _Data analytics basics for managers_]
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
 
-* https://decision.substack.com/p/analytics-the-complete-minicourse
+* [analytics, the complete mini-course](https://decision.substack.com/p/analytics-the-complete-minicourse)
 
 * terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
+
+
+# Programming, languages for Data Science
+
+* [_JP Morgan Python for traders](https://github.com/jpmorganchase/python-training)
+
+* [_Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+* [PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
+
+* [Norman Matloff's _Art of R programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
+
+* SQL for newbies http://mystery.knightlab.com/
+
 
 ### Maths and statistics
 
@@ -44,38 +57,33 @@
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/images.jpeg?raw=true)
 
-* Good charts - scott Beratino https://www.oreilly.com/library/view/good-charts/9781633690714/
+* [_Good charts - scott Beratino_](https://www.oreilly.com/library/view/good-charts/9781633690714/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.39.57%20PM.png?raw=true)
 
 ### machine learning 
 
-* _Introduction to Statistical learning_ and  _Elements of Statistical learning_ 
-http://faculty.marshall.usc.edu/gareth-james/ISL/
+* [Stanford CS229](http://cs229.stanford.edu/syllabus-fall2020.html)
+
+* [_Introduction to Statistical learning_ and  _Elements of Statistical learning_ ](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/ISL.jpg?raw=true)
 
-* _machine learning: a probabilistic perspective_ 
-* _machine learning: an introduction_
-https://probml.github.io/pml-book/
+* [_machine learning: a probabilistic perspective_  and _machine learning: an introduction_](https://probml.github.io/pml-book/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/MLintro_murphy.jpg?raw=true)
 
-
-* Courses amazon 
-https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university
+* [Machine learning course - Amazon](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%204.30.38%20PM.png?raw=true)
 
-* Courses kaggle https://www.kaggle.com/learn/overview
+* [Courses kaggle](https://www.kaggle.com/learn/overview)
 
-* Mathematics for machine learning https://mml-book.github.io/
+* [Mathematics for machine learning](https://mml-book.github.io/)
 
-* Foundations of machine learning and data science 
-https://sdsclub.com/machine-learning-data-science-foundations
+* [Foundations of machine learning and data science](https://sdsclub.com/machine-learning-data-science-foundations)
 
-* Join a kaggle competition as a noob
-https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way
+* [Join a kaggle competition as a noob](https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way)
 
 * [Coursera: win a kaggle competition](https://www.coursera.org/learn/competitive-data-science)
 
@@ -113,6 +121,8 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 * [_Deep reinforcement learning - Berkeley_](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
 
+# Topics 
+
 ### time series & forecasting 
 
 * [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp2/)
@@ -125,20 +135,6 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 * https://lena-voita.github.io/nlp_course.html
 
 * [NLTK + book (a bit old)](http://www.nltk.org/book/)
-
-
-### languages: R, python, SQL, Julia, Scala, Matlab 
-
-* [_JP Morgan Python for traders](https://github.com/jpmorganchase/python-training)
-
-* [_Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-* [PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
-
-* [Norman Matloff's _Art of R programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
-
-* SQL for newbies http://mystery.knightlab.com/
-
 
 
 # The real world 
