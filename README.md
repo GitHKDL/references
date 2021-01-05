@@ -77,6 +77,8 @@ https://sdsclub.com/machine-learning-data-science-foundations
 * Join a kaggle competition as a noob
 https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way
 
+* [Coursera: win a kaggle competition](https://www.coursera.org/learn/competitive-data-science)
+
 
 ### deep learning 
 
