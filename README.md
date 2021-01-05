@@ -14,7 +14,7 @@
 
 * terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
 
-![The Care and Feeding of Data Scientists: How to Build, Manage, and Retain a Data Science Team](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
+* ![The Care and Feeding of Data Scientists: How to Build, Manage, and Retain a Data Science Team](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 
 ### data science in production
 
