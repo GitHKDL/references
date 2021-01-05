@@ -12,7 +12,7 @@
 
 # Fundamentals
 
-### DS for executives 
+### Concepts, DS for executives 
 
 * [HBR guide, _Data analytics basics for managers_]
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
@@ -22,7 +22,7 @@
 * terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
 
 
-# Programming, languages for Data Science
+## Programming, languages for Data Science
 
 * [_JP Morgan Python for traders](https://github.com/jpmorganchase/python-training)
 
