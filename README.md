@@ -1,10 +1,18 @@
-# references for data science 
+# Curated References for Data Science 
 
-### Courses, masters, PhDs 
+### Courses
+
+##### online, MOOCs
+
+* https://lnkd.in/g4CCsak
+
+##### Not only Online, masters, PhDs 
 
 * list of best masters https://www.kdnuggets.com/2019/04/best-masters-data-science-analytics-online.html
 
-### for executives 
+# Fundamentals
+
+### DS for executives 
 
 * HBR guide, _Data analytics basics for managers_
 
@@ -14,25 +22,20 @@
 
 * terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
 
-* ![The Care and Feeding of Data Scientists: How to Build, Manage, and Retain a Data Science Team](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
-
-### data science in production
-
-[Applied ML in Production: A hands-on course on MLOps for software engineers, data scientists and product managers](https://madewithml.com/courses/applied-ml-in-production/)
-
-[ML in production: Best practices for building real world machine learning systems](http://mlinproduction.com/)
-
-### statistics
+### Maths and statistics
 
 * Larry Wasserman's _all of statistics_ : http://www.stat.cmu.edu/~larry/
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/61L6v7WjPzL.jpg?raw=true)
-* _all of statistics_: http://static.stevereads.com/papers_to_read/all_of_statistics.pdf
-* _all of non-parametric statistics_: https://web.stanford.edu/class/ee378a/books/book2.pdf
+
+* [_all of statistics_](http://static.stevereads.com/papers_to_read/all_of_statistics.pdf)
+* [_all of non-parametric statistics](https://web.stanford.edu/class/ee378a/books/book2.pdf)
 
 * MIT course by Joe Blitzstein: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/hqdefault.jpg?raw=true)
+
+* https://www.mltut.com/best-resources-to-learn-probability-and-statistics-for-machine-learning
 
 
 ### visualization 
@@ -77,39 +80,40 @@ https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-
 
 ### deep learning 
 
-* MIT 6.S191 _intro to Deep learning_ http://introtodeeplearning.com/
+* [_deep learning book_ the classic](https://www.deeplearningbook.org/)
+
+* [MIT 6.S191 _intro to Deep learning_](http://introtodeeplearning.com/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.22.42%20PM.png?raw=true)
 
-* _Deepmind learning resources_ https://deepmind.com/learning-resources/deep-learning-lecture-series-2020
+* [_Deepmind learning resources_](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/dl_lectures.png?raw=true)
 
-* _Dive into Deep learning_ https://d2l.ai/
+* [_Dive into Deep learning_](https://d2l.ai/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.01.05%20PM.png?raw=true)
 
-* Fast.ai https://www.fast.ai/
+* [_Fast.ai_](https://www.fast.ai/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.07.58%20PM.png?raw=true)
 
-* Maths for deep learning https://explained.ai/matrix-calculus/index.html
-
-
+* [_Maths for deep learning_](https://explained.ai/matrix-calculus/index.html)
 
 ### reinforcement learning 
 
-* Sutton's book http://www.incompleteideas.net/book/RLbook2020.pdf
+* [Sutton's classic book](http://www.incompleteideas.net/book/the-book.html)
 
-* Lectures berkeley 
+* [_Algorithms for RL_: 100 pqges only ;-) ](https://sites.ualberta.ca/~szepesva/rlbook.html)
 
-* Deep reinforcement learning - Berkeley
-https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
+* [RL course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+* [_Deep reinforcement learning - Berkeley_](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
 
 ### time series & forecasting 
 
-* Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos https://otexts.com/fpp2/
+* [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp2/)
 
 
 ### NLP 
@@ -118,47 +122,55 @@ https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 
 * https://lena-voita.github.io/nlp_course.html
 
-* NLTK + book (a bit old) :http://www.nltk.org/book/
+* [NLTK + book (a bit old)](http://www.nltk.org/book/)
 
 
+### languages: R, python, SQL, Julia, Scala, Matlab 
 
-### languages : R, python, SQL, Julia, Scala, Matlab 
+* [_JP Morgan Python for traders](https://github.com/jpmorganchase/python-training)
 
-* _JP Morgan Python for traders_ https://github.com/jpmorganchase/python-training
+* [_Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-* _Python Data Science Handbook_ https://jakevdp.github.io/PythonDataScienceHandbook/
+* [PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
 
-* _PEP8 guidelines_ https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.
-
-* Norman Matloff's _Art of R programming_: http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf
+* [Norman Matloff's _Art of R programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
 
 * SQL for newbies http://mystery.knightlab.com/
 
 
-### software engineering 
+
+# The real world 
+
+### data science in production
+
+##### ML engineers 
 
 * AWS ML certification https://aws.amazon.com/certification/certified-machine-learning-specialty/
 
 * Google Cloud Machine learning Engineer certification: https://cloud.google.com/certification/machine-learning-engineer
 
-* DS in production https://mlinproduction.com/ 
+* [ML in production: Best practices for building real world machine learning systems](https://mlinproduction.com/)
+
+* [Applied ML in Production: A hands-on course on MLOps for software engineers, data scientists and product managers](https://madewithml.com/courses/applied-ml-in-production/)
+
+##### Management, organization 
+
+* ![The Care and Feeding of Data Scientists: How to Build, Manage, and Retain a Data Science Team](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 
 
 ### Research 
 
-* Classic papers in ML, AI, ... https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
+* [list of classic papers in ML, AI, ...](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
+
+* [Stanford MATH 6380P - advcanced topics in deep learning](https://deeplearning-math.github.io/)
 
 
 ### misc, other lists 
 
-* A general list with many classics 
-https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html
+* A general list with many classic books: https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html
 
-* https://www.mltut.com/best-resources-to-learn-probability-and-statistics-for-machine-learning
+* [Robotics - Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 
-### MOOCs
-
-* https://lnkd.in/g4CCsak
 
 
