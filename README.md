@@ -136,6 +136,10 @@
 
 * [NLTK + book (a bit old)](http://www.nltk.org/book/)
 
+### ML in finance
+
+* [Marco de prado lopez - Lectures](http://www.quantresearch.org/Lectures.htm)
+
 
 # The real world 
 
