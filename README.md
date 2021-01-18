@@ -14,7 +14,7 @@
 
 ### Concepts, DS for executives 
 
-* [HBR guide, _Data analytics basics for managers_]
+* ![alt text](https://github.com/GitHKDL/references/blob/main/icon_pdf.2.jpg?raw=true)[HBR guide, _Data analytics basics for managers_]
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
 
 * [analytics, the complete mini-course](https://decision.substack.com/p/analytics-the-complete-minicourse)
@@ -24,9 +24,13 @@
 
 ## Programming, languages for Data Science
 
-* [_JP Morgan Python for traders](https://github.com/jpmorganchase/python-training)
+"Should I choose Python or R ?" --> learn both ! 
 
-* [_Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [_JP Morgan Python for traders_](https://github.com/jpmorganchase/python-training)
+
+* [_Python Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+* [2 hours intro to Python by Google] (https://youtu.be/tKTZoB2Vjuk)
 
 * [PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
 
