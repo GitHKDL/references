@@ -13,7 +13,7 @@
 
 ##### Not only Online, masters, PhDs 
 
-* list of best masters https://www.kdnuggets.com/2019/04/best-masters-data-science-analytics-online.html
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true) list of best masters https://www.kdnuggets.com/2019/04/best-masters-data-science-analytics-online.html
 
 # Fundamentals
 
@@ -22,9 +22,9 @@
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[HBR guide, _Data analytics basics for managers_]
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
 
-* [analytics, the complete mini-course](https://decision.substack.com/p/analytics-the-complete-minicourse)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true) [analytics, the complete mini-course](https://decision.substack.com/p/analytics-the-complete-minicourse)
 
-* terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true) terminology: what is data science ? https://hackernoon.com/what-on-earth-is-data-science-eb1237d8cb37
 
 
 ## Programming, languages for Data Science
@@ -35,13 +35,13 @@
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_Python Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-* [2 hours intro to Python by Google] (https://youtu.be/tKTZoB2Vjuk)
+* ![icon video](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true)[2 hours intro to Python by Google] (https://youtu.be/tKTZoB2Vjuk)
 
-* [PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true) [Norman Matloff's _Art of R programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
 
-* SQL for newbies http://mystery.knightlab.com/
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)SQL for newbies http://mystery.knightlab.com/
 
 
 ### Maths and statistics
@@ -57,7 +57,7 @@
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/hqdefault.jpg?raw=true)
 
-* https://www.mltut.com/best-resources-to-learn-probability-and-statistics-for-machine-learning
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)https://www.mltut.com/best-resources-to-learn-probability-and-statistics-for-machine-learning
 
 * ![icon mooc](https://github.com/GitHKDL/references/blob/main/icon_mooc2.jpg?raw=true) [Foundations of machine learning and data science: Matrices, Tensors](https://sdsclub.com/machine-learning-data-science-foundations)
 
@@ -74,7 +74,7 @@
 
 ### machine learning 
 
-* [Stanford CS229](http://cs229.stanford.edu/syllabus-fall2020.html)
+* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true) ![icon video](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true)[Stanford CS229](http://cs229.stanford.edu/syllabus-fall2020.html)
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_Introduction to Statistical learning_ and  _Elements of Statistical learning_ ](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
@@ -84,36 +84,36 @@
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/MLintro_murphy.jpg?raw=true)
 
-* [Machine learning course - Amazon](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[Machine learning course - Amazon](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%204.30.38%20PM.png?raw=true)
 
-* [Courses kaggle](https://www.kaggle.com/learn/overview)
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[Courses kaggle](https://www.kaggle.com/learn/overview)
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[Mathematics for machine learning](https://mml-book.github.io/)
 
-* [Join a kaggle competition as a noob](https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way)
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[Join a kaggle competition as a noob](https://www.kaggle.com/tanulsingh077/tackling-any-kaggle-competition-the-noob-s-way)
 
-* [Coursera: win a kaggle competition](https://www.coursera.org/learn/competitive-data-science)
+*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[Coursera: win a kaggle competition](https://www.coursera.org/learn/competitive-data-science)
 
 
 ### deep learning 
 
-* [_deep learning book_ the classic](https://www.deeplearningbook.org/)
+* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_deep learning book_ the classic](https://www.deeplearningbook.org/)
 
 * [MIT 6.S191 _intro to Deep learning_](http://introtodeeplearning.com/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%207.22.42%20PM.png?raw=true)
 
-* [_Deepmind learning resources_](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[_Deepmind learning resources_](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/dl_lectures.png?raw=true)
 
-* [_Dive into Deep learning_](https://d2l.ai/)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[_Dive into Deep learning_](https://d2l.ai/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.01.05%20PM.png?raw=true)
 
-* [_Fast.ai_](https://www.fast.ai/)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[_Fast.ai_](https://www.fast.ai/)
 
 ![alt text](https://github.com/GitHKDL/references/blob/main/Screen%20Shot%202020-12-10%20at%206.07.58%20PM.png?raw=true)
 
@@ -127,23 +127,23 @@
 
 * ![icon video](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true) [RL course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
-* [_Deep reinforcement learning - Berkeley_](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+*  ![icon video](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true) [_Deep reinforcement learning - Berkeley_](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
 
 # Topics 
 
 ### time series & forecasting 
 
-* [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp2/)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp2/)
 
 
 ### NLP 
 
-* course spacy: https://course.spacy.io/en/
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true) course spacy: https://course.spacy.io/en/
 
-* https://lena-voita.github.io/nlp_course.html
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true) https://lena-voita.github.io/nlp_course.html
 
-* [NLTK + book (a bit old)](http://www.nltk.org/book/)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true) [NLTK + book (a bit old)](http://www.nltk.org/book/)
 
 ### ML in finance
 
@@ -156,22 +156,22 @@
 
 ##### ML engineers 
 
-* AWS ML certification https://aws.amazon.com/certification/certified-machine-learning-specialty/
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)AWS ML certification https://aws.amazon.com/certification/certified-machine-learning-specialty/
 
-* Google Cloud Machine learning Engineer certification: https://cloud.google.com/certification/machine-learning-engineer
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)Google Cloud Machine learning Engineer certification: https://cloud.google.com/certification/machine-learning-engineer
 
-* [ML in production: Best practices for building real world machine learning systems](https://mlinproduction.com/)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[ML in production: Best practices for building real world machine learning systems](https://mlinproduction.com/)
 
-* [Applied ML in Production: A hands-on course on MLOps for software engineers, data scientists and product managers](https://madewithml.com/courses/applied-ml-in-production/)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[Applied ML in Production: A hands-on course on MLOps for software engineers, data scientists and product managers](https://madewithml.com/courses/applied-ml-in-production/)
 
 ##### Management, organization 
 
-* ![The Care and Feeding of Data Scientists: How to Build, Manage, and Retain a Data Science Team](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
+* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)![The Care and Feeding of Data Scientists: How to Build, Manage, and Retain a Data Science Team](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 
 
 ### Research 
 
-* [list of classic papers in ML, AI, ...](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
+* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[list of classic papers in ML, AI, ...](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[Stanford MATH 6380P - advcanced topics in deep learning](https://deeplearning-math.github.io/)
 
