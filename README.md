@@ -5,6 +5,11 @@
 ##### online, MOOCs
 
 * ![alt text](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true) [My 5 favourite Coursera Courses for Python, Data Science and Machine Learning](https://www.youtube.com/watch?v=-Lazy3r6FKk&feature=share)
+- python for everybody specialization
+- Applied data science with python 
+- Deep learning specialization
+- Mathematics for Machine learning specialization
+- Machine learning Course (Andrew Ng) 
 
 ##### Not only Online, masters, PhDs 
 
