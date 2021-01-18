@@ -14,7 +14,7 @@
 
 ### Concepts, DS for executives 
 
-* ![alt text](https://github.com/GitHKDL/references/blob/main/icon_pdf.2.jpg?raw=true)[HBR guide, _Data analytics basics for managers_]
+* ![alt text](https://github.com/GitHKDL/references/blob/main/icon_pdf2.png?raw=true)[HBR guide, _Data analytics basics for managers_]
 ![alt text](https://github.com/GitHKDL/references/blob/main/51Os0ocq%2BqL.jpg?raw=true)
 
 * [analytics, the complete mini-course](https://decision.substack.com/p/analytics-the-complete-minicourse)
