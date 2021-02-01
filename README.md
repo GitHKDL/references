@@ -31,13 +31,15 @@
 
 "Should I choose Python or R ?" --> learn both ! 
 
-* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_JP Morgan Python for traders_](https://github.com/jpmorganchase/python-training)
+* ![icon video](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true)[a simple 2 hours intro to Python by Google](https://youtu.be/tKTZoB2Vjuk)
+
+* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_Learn python the hard way_](https://drive.google.com/file/d/0B-hV1HrMP8j1OWpEWXBXbUJsNms/view)
+
+* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[If you're a trader: _JP Morgan Python for traders_](https://github.com/jpmorganchase/python-training)
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_Python Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-* ![icon video](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true)[2 hours intro to Python by Google] (https://youtu.be/tKTZoB2Vjuk)
-
-*  ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
+* ![icon website](https://github.com/GitHKDL/references/blob/main/icon_website2.png?raw=true)[PEP8 guidelines](https://realpython.com/python-pep8/#:~:text=The%20primary%20focus%20of%20PEP,and%20style%2C%20for%20the%20community.)
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true) [Norman Matloff's _Art of R programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
 
