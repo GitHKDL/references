@@ -33,7 +33,7 @@
 
 * ![icon video](https://github.com/GitHKDL/references/blob/main/icon_video.png?raw=true)[a simple 2 hours intro to Python by Google](https://youtu.be/tKTZoB2Vjuk)
 
-* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_Learn python the hard way_](https://drive.google.com/file/d/0B-hV1HrMP8j1OWpEWXBXbUJsNms/view)
+* ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[_Learn python the hard way_](https://drive.google.com/file/d/1uuS9zDu9cKSm9RsbxGmgYBd-ow6eSdt8/view)
 
 * ![icon ebook](https://github.com/GitHKDL/references/blob/main/icon_ebook2.png?raw=true)[If you're a trader: _JP Morgan Python for traders_](https://github.com/jpmorganchase/python-training)
 
